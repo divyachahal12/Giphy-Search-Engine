@@ -1,4 +1,4 @@
-﻿# Giphy-Search-Engine
+# Giphy-Search-Engine
 
 # Points to keep in mind while contributing
 
@@ -19,6 +19,8 @@
 - Aniket Kumar
 - Gargi Chakraverty
 - Mohit Srivastava
+- Divya Chahal
+
 
 
 # How to Start?
